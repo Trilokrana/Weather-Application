@@ -25,7 +25,7 @@ Customization: Choose between different theme options and personalize the app to
 
 Getting Started:
 
-Clone this repository: git clone https://github.com/your-username/weather-app.git
+Clone this repository: git clone https://github.com/Trilokrana/Weather-Application.git
 Install dependencies: npm install
 Run the development server: npm start
 Access the app in your browser: http://localhost:5173
